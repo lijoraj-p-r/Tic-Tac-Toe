@@ -3,7 +3,7 @@ package com.TickTackToe;
 
 import java.util.Scanner;
 
-public class TicTacToeV2 {
+public class TicTacToe {
 	
 	/*
 	 * Tic-Tac-Toe Game
